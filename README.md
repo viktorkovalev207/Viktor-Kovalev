@@ -2,7 +2,8 @@
 My profile
 - :chess_pawn: Test
 - :goat: goat
-- Test
+- Test picture
+  print katze viewfinder.jpg
 
 # 💫 About Me:
 l'm currently working on Data Analyst Bootcamp stuff ..<br>l'm looking to collaborate on <br>l have worked 3 years as E-Commerce Manager.<br>l'm currently learning Python, SQl, etc.<br>Ask me about anything but coding.<br>+ Fun fact: This is only a Test
@@ -22,3 +23,4 @@ l'm currently working on Data Analyst Bootcamp stuff ..<br>l'm looking to collab
 [![](https://visitcount.itsvg.in/api?id=viktorkovalev207&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
