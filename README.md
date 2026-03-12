@@ -3,7 +3,7 @@ My profile
 - :chess_pawn: Test
 - :goat: goat
 - Test picture
-  print katze viewfinder.jpg
+  print (katze viewfinder.jpg)
 
 # 💫 About Me:
 l'm currently working on Data Analyst Bootcamp stuff ..<br>l'm looking to collaborate on <br>l have worked 3 years as E-Commerce Manager.<br>l'm currently learning Python, SQl, etc.<br>Ask me about anything but coding.<br>+ Fun fact: This is only a Test
